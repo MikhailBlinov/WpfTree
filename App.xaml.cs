@@ -13,5 +13,6 @@ namespace PersonObject
     /// </summary>
     public partial class App : Application
     {
+	 // It is a test for git
     }
 }
